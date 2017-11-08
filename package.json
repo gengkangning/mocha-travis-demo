@@ -1,0 +1,23 @@
+{
+  "name": "mocha-demo",
+  "version": "1.0.0",
+  "description": "基于 mocha 的自动化测试框架示例代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "rose",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^4.0.1",
+    "mochawesome": "^2.3.1",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
